@@ -1,6 +1,6 @@
 Welcome to PWRbuster!
 
-This is more or less just a small read me file but it's a good intro.
+This is more or less just a small read me but it's a good intro.
 
 So, what exactly is PWRbuster?
 Well, PWRbuster is a cybersecurity open source program that has the goal of making passwords more secure by randomly generating them; though for the time being it is very very very basic.
